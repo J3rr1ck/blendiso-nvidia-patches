@@ -53,6 +53,7 @@ linux-firmware
 linux-firmware-marvell
 nvidia
 nvidia-settings
+jupiter-hw-support
 #livecd-sounds
 #lsscsi
 #lvm2
@@ -201,3 +202,5 @@ blend-keyring
 
 # Spice
 spice-vdagent
+
+
